@@ -1,0 +1,79 @@
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\bin\Debug\VadlvApp.exe.config
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\bin\Debug\VadlvApp.exe
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\bin\Debug\VadlvApp.pdb
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\MainWindow.g.cs
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\App.g.cs
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp_MarkupCompile.cache
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp_MarkupCompile.lref
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\App.baml
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\MainWindow.baml
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\Styles\Colors.baml
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\Styles\Button.baml
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\Styles\Windows.baml
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\Styles\Text.baml
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\Styles\Fonts.baml
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.g.resources
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.Properties.Resources.resources
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.csproj.GenerateResource.cache
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.csproj.CoreCompileInputs.cache
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.csproj.CopyComplete
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.exe
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.pdb
+C:\Users\afiff\source\repos\VadlvApp\VadlvApp\obj\Debug\VadlvApp.csprojAssemblyReference.cache
+D:\PBKK\Login\VadlvApp\obj\Debug\VadlvApp.csprojAssemblyReference.cache
+D:\PBKK\Login\VadlvApp\obj\Debug\MainWindow.g.cs
+D:\PBKK\Login\VadlvApp\obj\Debug\App.g.cs
+D:\PBKK\Login\VadlvApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PBKK\Login\VadlvApp\obj\Debug\VadlvApp_MarkupCompile.cache
+D:\PBKK\Login\VadlvApp\obj\Debug\VadlvApp_MarkupCompile.lref
+D:\PBKK\Login\VadlvApp\obj\Debug\App.baml
+D:\PBKK\Login\VadlvApp\obj\Debug\MainWindow.baml
+D:\PBKK\Login\VadlvApp\obj\Debug\Styles\Colors.baml
+D:\PBKK\Login\VadlvApp\obj\Debug\Styles\Button.baml
+D:\PBKK\Login\VadlvApp\obj\Debug\Styles\Windows.baml
+D:\PBKK\Login\VadlvApp\obj\Debug\Styles\Text.baml
+D:\PBKK\Login\VadlvApp\obj\Debug\Styles\Fonts.baml
+D:\PBKK\Login\VadlvApp\obj\Debug\VadlvApp.g.resources
+D:\PBKK\Login\VadlvApp\obj\Debug\VadlvApp.Properties.Resources.resources
+D:\PBKK\Login\VadlvApp\obj\Debug\VadlvApp.csproj.GenerateResource.cache
+D:\PBKK\Login\VadlvApp\obj\Debug\VadlvApp.csproj.CoreCompileInputs.cache
+D:\PBKK\Login\VadlvApp\obj\Debug\VadlvApp.exe
+D:\PBKK\Login\VadlvApp\obj\Debug\VadlvApp.pdb
+D:\PBKK\Login\VadlvApp\bin\Debug\VadlvApp.exe.config
+D:\PBKK\Login\VadlvApp\bin\Debug\VadlvApp.exe
+D:\PBKK\Login\VadlvApp\bin\Debug\VadlvApp.pdb
+D:\PBKK\Login\VadlvApp\bin\Debug\Microsoft.Windows.Shell.dll
+D:\PBKK\Login\VadlvApp\bin\Debug\Microsoft.Windows.Shell.pdb
+D:\PBKK\Login\VadlvApp\obj\Debug\VadlvApp.csproj.CopyComplete
+D:\PBKK\Login\VadlvApp\obj\Debug\Pages\LoginPage.g.cs
+D:\PBKK\Login\VadlvApp\obj\Debug\Pages\LoginPage.baml
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\bin\Debug\VadlvApp.exe.config
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\bin\Debug\VadlvApp.exe
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\bin\Debug\VadlvApp.pdb
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\bin\Debug\Microsoft.Windows.Shell.dll
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\bin\Debug\Microsoft.Windows.Shell.pdb
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\VadlvApp.csprojAssemblyReference.cache
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\MainWindow.g.cs
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\Pages\LoginPage.g.cs
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\App.g.cs
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\VadlvApp_MarkupCompile.cache
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\VadlvApp_MarkupCompile.lref
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\App.baml
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\MainWindow.baml
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\Pages\LoginPage.baml
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\Styles\Colors.baml
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\Styles\Button.baml
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\Styles\Windows.baml
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\Styles\Text.baml
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\Styles\Fonts.baml
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\VadlvApp.g.resources
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\VadlvApp.Properties.Resources.resources
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\VadlvApp.csproj.GenerateResource.cache
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\VadlvApp.csproj.CoreCompileInputs.cache
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\VadlvApp.csproj.CopyComplete
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\VadlvApp.exe
+R:\Tugas Sekolah\Sems 6\pbkk\VadlvApp-master\VadlvApp\obj\Debug\VadlvApp.pdb
